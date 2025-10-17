@@ -48,6 +48,16 @@ By leveraging deep learning for sentiment analysis, organizations can:
 
 ---
 
+## 📥 Dataset (Kaggle Link)
+The full dataset is large and not stored in this repo. You can download it from Kaggle:
+
+[Twitter Entity Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
+It includes:
+- `twitter_training.csv`
+- `twitter_validation.csv`
+
+---
+
 ## 👩‍💻 Author
 **Dhatri Shree Podugu**  
 *M.S. in Information Systems — University of Maryland, Baltimore County*  
